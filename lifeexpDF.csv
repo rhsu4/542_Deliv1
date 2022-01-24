@@ -1,652 +1,218 @@
-CountryName,Year,lifeExp
-Afghanistan,2002,56.784
-Albania,2002,74.579
-Algeria,2002,71.605
-American Samoa,2002,..
-Andorra,2002,..
-Angola,2002,47.702
-Antigua and Barbuda,2002,74.395
-Argentina,2002,73.932
-Armenia,2002,72.112
-Aruba,2002,73.937
-Australia,2002,79.93658537
-Austria,2002,78.67804878
-Azerbaijan,2002,67.391
-"Bahamas, The",2002,71.977
-Bahrain,2002,74.822
-Bangladesh,2002,66.43
-Barbados,2002,77.534
-Belarus,2002,68.05609756
-Belgium,2002,78.07560976
-Belize,2002,69.272
-Benin,2002,56.025
-Bermuda,2002,78.08780488
-Bhutan,2002,62.728
-Bolivia,2002,63.64
-Bosnia and Herzegovina,2002,74.803
-Botswana,2002,50.232
-Brazil,2002,70.813
-British Virgin Islands,2002,..
-Brunei Darussalam,2002,73.332
-Bulgaria,2002,71.86585366
-Burkina Faso,2002,51.384
-Burundi,2002,50.81
-Cabo Verde,2002,69.557
-Cambodia,2002,60.283
-Cameroon,2002,51.536
-Canada,2002,79.4902439
-Cayman Islands,2002,..
-Central African Republic,2002,44.063
-Chad,2002,47.9
-Channel Islands,2002,79.548
-Chile,2002,76.894
-China,2002,72.061
-Colombia,2002,73.517
-Comoros,2002,59.617
-"Congo, Dem. Rep.",2002,51.385
-"Congo, Rep.",2002,53.091
-Costa Rica,2002,77.74
-Cote d'Ivoire,2002,49.475
-Croatia,2002,74.71731707
-Cuba,2002,77.105
-Curacao,2002,..
-Cyprus,2002,78.264
-Czech Republic,2002,75.22195122
-Denmark,2002,76.89512195
-Djibouti,2002,57.235
-Dominica,2002,76.59756098
-Dominican Republic,2002,69.957
-Ecuador,2002,73.371
-"Egypt, Arab Rep.",2002,68.961
-El Salvador,2002,69.432
-Equatorial Guinea,2002,53.84
-Eritrea,2002,56.5
-Estonia,2002,70.90487805
-Eswatini,2002,44.41
-Ethiopia,2002,53.349
-Faroe Islands,2002,78.83902439
-Fiji,2002,66.022
-Finland,2002,78.1195122
-France,2002,79.26097561
-French Polynesia,2002,73.017
-Gabon,2002,57.791
-"Gambia, The",2002,56.761
-Georgia,2002,70.22
-Germany,2002,78.22926829
-Ghana,2002,57.425
-Gibraltar,2002,..
-Greece,2002,78.64146341
-Greenland,2002,68.16268293
-Grenada,2002,72.929
-Guam,2002,75.726
-Guatemala,2002,68.717
-Guinea,2002,51.484
-Guinea-Bissau,2002,51.123
-Guyana,2002,65.828
-Haiti,2002,57.655
-Honduras,2002,71.249
-"Hong Kong SAR, China",2002,81.42682927
-Hungary,2002,72.34878049
-Iceland,2002,80.50243902
-India,2002,63.304
-Indonesia,2002,66.321
-"Iran, Islamic Rep.",2002,70.921
-Iraq,2002,68.827
-Ireland,2002,77.63414634
-Isle of Man,2002,77.96585366
-Israel,2002,79.45121951
-Italy,2002,80.22926829
-Jamaica,2002,74.14
-Japan,2002,81.56341463
-Jordan,2002,72.083
-Kazakhstan,2002,65.95
-Kenya,2002,51.606
-Kiribati,2002,63.731
-"Korea, Dem. People's Rep.",2002,66.925
-"Korea, Rep.",2002,76.76585366
-Kosovo,2002,67.94390244
-Kuwait,2002,73.28
-Kyrgyz Republic,2002,68.15609756
-Lao PDR,2002,59.937
-Latvia,2002,70.96097561
-Lebanon,2002,75.488
-Lesotho,2002,44.898
-Liberia,2002,52.826
-Libya,2002,71.244
-Liechtenstein,2002,79.63658537
-Lithuania,2002,71.76097561
-Luxembourg,2002,77.96585366
-"Macao SAR, China",2002,80.87
-Madagascar,2002,59.717
-Malawi,2002,45.517
-Malaysia,2002,72.976
-Maldives,2002,71.708
-Mali,2002,49.54
-Malta,2002,78.73902439
-Marshall Islands,2002,..
-Mauritania,2002,60.892
-Mauritius,2002,71.96585366
-Mexico,2002,74.922
-"Micronesia, Fed. Sts.",2002,64.888
-Moldova,2002,67.362
-Monaco,2002,..
-Mongolia,2002,63.777
-Montenegro,2002,73.285
-Morocco,2002,69.769
-Mozambique,2002,49.61
-Myanmar,2002,60.685
-Namibia,2002,50.862
-Nauru,2002,..
-Nepal,2002,63.57
-Netherlands,2002,78.29268293
-New Caledonia,2002,75.10243902
-New Zealand,2002,78.84634146
-Nicaragua,2002,70.308
-Niger,2002,51.256
-Nigeria,2002,46.835
-North Macedonia,2002,73.642
-Northern Mariana Islands,2002,..
-Norway,2002,78.98780488
-Oman,2002,73.022
-Pakistan,2002,63.3
-Palau,2002,..
-Panama,2002,75.401
-Papua New Guinea,2002,59.722
-Paraguay,2002,71.023
-Peru,2002,71.882
-Philippines,2002,68.88
-Poland,2002,74.49756098
-Portugal,2002,77.06585366
-Puerto Rico,2002,77.7604878
-Qatar,2002,77.762
-Romania,2002,71.0097561
-Russian Federation,2002,65.12878049
-Rwanda,2002,50.987
-Samoa,2002,69.451
-San Marino,2002,..
-Sao Tome and Principe,2002,62.687
-Saudi Arabia,2002,72.92
-Senegal,2002,58.675
-Serbia,2002,72.28536585
-Seychelles,2002,71.08780488
-Sierra Leone,2002,41.376
-Singapore,2002,78.55121951
-Sint Maarten (Dutch part),2002,..
-Slovak Republic,2002,73.60487805
-Slovenia,2002,76.00731707
-Solomon Islands,2002,68.175
-Somalia,2002,51.492
-South Africa,2002,54.31
-South Sudan,2002,50.05
-Spain,2002,79.56829268
-Sri Lanka,2002,73.085
-St. Kitts and Nevis,2002,71.33658537
-St. Lucia,2002,73.648
-St. Martin (French part),2002,77.17317073
-St. Vincent and the Grenadines,2002,70.977
-Sudan,2002,59.258
-Suriname,2002,68.064
-Sweden,2002,79.84634146
-Switzerland,2002,80.38536585
-Syrian Arab Republic,2002,73.663
-Tajikistan,2002,63.653
-Tanzania,2002,52.142
-Thailand,2002,71.089
-Timor-Leste,2002,60.901
-Togo,2002,53.71
-Tonga,2002,69.771
-Trinidad and Tobago,2002,69.903
-Tunisia,2002,73.638
-Turkey,2002,71.078
-Turkmenistan,2002,64.101
-Turks and Caicos Islands,2002,..
-Tuvalu,2002,..
-Uganda,2002,48.299
-Ukraine,2002,68.27560976
-United Arab Emirates,2002,74.758
-United Kingdom,2002,78.14390244
-United States,2002,76.93658537
-Uruguay,2002,75.152
-Uzbekistan,2002,67.613
-Vanuatu,2002,67.793
-"Venezuela, RB",2002,72.466
-Vietnam,2002,73.438
-Virgin Islands (U.S.),2002,77.52195122
-West Bank and Gaza,2002,71.447
-"Yemen, Rep.",2002,61.781
-Zambia,2002,45.4
-Zimbabwe,2002,43.523
-Afghanistan,2010,61.028
-Albania,2010,76.562
-Algeria,2010,74.938
-American Samoa,2010,..
-Andorra,2010,..
-Angola,2010,55.35
-Antigua and Barbuda,2010,75.823
-Argentina,2010,75.278
-Armenia,2010,73.331
-Aruba,2010,75.017
-Australia,2010,81.69512195
-Austria,2010,80.5804878
-Azerbaijan,2010,70.938
-"Bahamas, The",2010,72.144
-Bahrain,2010,76.057
-Bangladesh,2010,69.881
-Barbados,2010,78.364
-Belarus,2010,70.40487805
-Belgium,2010,80.18292683
-Belize,2010,72.057
-Benin,2010,59.318
-Bermuda,2010,79.28853659
-Bhutan,2010,68.384
-Bolivia,2010,68.007
-Bosnia and Herzegovina,2010,76.031
-Botswana,2010,60.211
-Brazil,2010,73.619
-British Virgin Islands,2010,..
-Brunei Darussalam,2010,74.74
-Bulgaria,2010,73.51219512
-Burkina Faso,2010,57.096
-Burundi,2010,57.228
-Cabo Verde,2010,71.062
-Cambodia,2010,66.56
-Cameroon,2010,55.101
-Canada,2010,81.24634146
-Cayman Islands,2010,82.1902439
-Central African Republic,2010,47.312
-Chad,2010,50.89
-Channel Islands,2010,81.483
-Chile,2010,78.779
-China,2010,74.409
-Colombia,2010,75.424
-Comoros,2010,61.862
-"Congo, Dem. Rep.",2010,56.909
-"Congo, Rep.",2010,60.093
-Costa Rica,2010,78.769
-Cote d'Ivoire,2010,52.964
-Croatia,2010,76.47560976
-Cuba,2010,78.338
-Curacao,2010,..
-Cyprus,2010,79.43
-Czech Republic,2010,77.42439024
-Denmark,2010,79.1
-Djibouti,2010,60.062
-Dominica,2010,..
-Dominican Republic,2010,72.046
-Ecuador,2010,75.089
-"Egypt, Arab Rep.",2010,70.349
-El Salvador,2010,71.21
-Equatorial Guinea,2010,55.622
-Eritrea,2010,62.193
-Estonia,2010,75.42926829
-Eswatini,2010,46.601
-Ethiopia,2010,61.627
-Faroe Islands,2010,80.63902439
-Fiji,2010,66.655
-Finland,2010,79.87073171
-France,2010,81.66341463
-French Polynesia,2010,75.611
-Gabon,2010,61.4
-"Gambia, The",2010,59.637
-Georgia,2010,71.46
-Germany,2010,79.98780488
-Ghana,2010,61.03
-Gibraltar,2010,..
-Greece,2010,80.38780488
-Greenland,2010,70.85707317
-Grenada,2010,72.867
-Guam,2010,77.941
-Guatemala,2010,71.481
-Guinea,2010,56.861
-Guinea-Bissau,2010,54.628
-Guyana,2010,68.059
-Haiti,2010,60.511
-Honduras,2010,73.317
-"Hong Kong SAR, China",2010,82.97804878
-Hungary,2010,74.20731707
-Iceland,2010,81.89756098
-India,2010,66.693
-Indonesia,2010,69.205
-"Iran, Islamic Rep.",2010,73.905
-Iraq,2010,68.567
-Ireland,2010,80.74390244
-Isle of Man,2010,..
-Israel,2010,81.60243902
-Italy,2010,82.03658537
-Jamaica,2010,74.038
-Japan,2010,82.84268293
-Jordan,2010,73.428
-Kazakhstan,2010,68.45
-Kenya,2010,60.959
-Kiribati,2010,65.769
-"Korea, Dem. People's Rep.",2010,69.571
-"Korea, Rep.",2010,80.11707317
-Kosovo,2010,70.14390244
-Kuwait,2010,74.358
-Kyrgyz Republic,2010,69.3
-Lao PDR,2010,64.306
-Latvia,2010,73.48292683
-Lebanon,2010,78.36
-Lesotho,2010,45.1
-Liberia,2010,59.6
-Libya,2010,72.044
-Liechtenstein,2010,81.84146341
-Lithuania,2010,73.26829268
-Luxembourg,2010,80.63170732
-"Macao SAR, China",2010,82.704
-Madagascar,2010,63.388
-Malawi,2010,55.564
-Malaysia,2010,74.493
-Maldives,2010,75.905
-Mali,2010,55.251
-Malta,2010,81.39756098
-Marshall Islands,2010,..
-Mauritania,2010,62.527
-Mauritius,2010,72.96731707
-Mexico,2010,75.065
-"Micronesia, Fed. Sts.",2010,66.471
-Moldova,2010,69.616
-Monaco,2010,..
-Mongolia,2010,67.38
-Montenegro,2010,75.151
-Morocco,2010,74.382
-Mozambique,2010,52.31
-Myanmar,2010,63.525
-Namibia,2010,56.665
-Nauru,2010,..
-Nepal,2010,67.611
-Netherlands,2010,80.70243902
-New Caledonia,2010,77.2804878
-New Zealand,2010,80.70243902
-Nicaragua,2010,72.428
-Niger,2010,57.333
-Nigeria,2010,50.896
-North Macedonia,2010,74.662
-Northern Mariana Islands,2010,..
-Norway,2010,80.99756098
-Oman,2010,75.682
-Pakistan,2010,65.264
-Palau,2010,..
-Panama,2010,76.792
-Papua New Guinea,2010,62.029
-Paraguay,2010,72.653
-Peru,2010,74.41
-Philippines,2010,69.823
-Poland,2010,76.24634146
-Portugal,2010,79.02682927
-Puerto Rico,2010,78.41909756
-Qatar,2010,79.108
-Romania,2010,73.45853659
-Russian Federation,2010,68.84121951
-Rwanda,2010,63.433
-Samoa,2010,71.663
-San Marino,2010,..
-Sao Tome and Principe,2010,67.43
-Saudi Arabia,2010,73.917
-Senegal,2010,64.284
-Serbia,2010,74.33658537
-Seychelles,2010,73.19756098
-Sierra Leone,2010,49.382
-Singapore,2010,81.54146341
-Sint Maarten (Dutch part),2010,..
-Slovak Republic,2010,75.11219512
-Slovenia,2010,79.42195122
-Solomon Islands,2010,70.674
-Somalia,2010,53.99
-South Africa,2010,57.669
-South Sudan,2010,54.8
-Spain,2010,81.62682927
-Sri Lanka,2010,75.439
-St. Kitts and Nevis,2010,..
-St. Lucia,2010,74.852
-St. Martin (French part),2010,78.52195122
-St. Vincent and the Grenadines,2010,71.776
-Sudan,2010,62.764
-Suriname,2010,70.465
-Sweden,2010,81.45121951
-Switzerland,2010,82.24634146
-Syrian Arab Republic,2010,72.108
-Tajikistan,2010,68.736
-Tanzania,2010,58.584
-Thailand,2010,74.184
-Timor-Leste,2010,67.186
-Togo,2010,57.468
-Tonga,2010,70.059
-Trinidad and Tobago,2010,71.946
-Tunisia,2010,75.041
-Turkey,2010,74.507
-Turkmenistan,2010,66.657
-Turks and Caicos Islands,2010,..
-Tuvalu,2010,..
-Uganda,2010,57.099
-Ukraine,2010,70.26536585
-United Arab Emirates,2010,76.332
-United Kingdom,2010,80.40243902
-United States,2010,78.54146341
-Uruguay,2010,76.75
-Uzbekistan,2010,69.672
-Vanuatu,2010,69.123
-"Venezuela, RB",2010,73.134
-Vietnam,2010,74.837
-Virgin Islands (U.S.),2010,77.86585366
-West Bank and Gaza,2010,72.788
-"Yemen, Rep.",2010,65.549
-Zambia,2010,55.655
-Zimbabwe,2010,50.64
-Afghanistan,2018,64.486
-Albania,2018,78.458
-Algeria,2018,76.693
-American Samoa,2018,..
-Andorra,2018,..
-Angola,2018,60.782
-Antigua and Barbuda,2018,76.885
-Argentina,2018,76.52
-Armenia,2018,74.945
-Aruba,2018,76.152
-Australia,2018,82.74878049
-Austria,2018,81.69268293
-Azerbaijan,2018,72.864
-"Bahamas, The",2018,73.752
-Bahrain,2018,77.163
-Bangladesh,2018,72.32
-Barbados,2018,79.081
-Belarus,2018,74.17560976
-Belgium,2018,81.59512195
-Belize,2018,74.496
-Benin,2018,61.47
-Bermuda,2018,81.65170732
-Bhutan,2018,71.46
-Bolivia,2018,71.239
-Bosnia and Herzegovina,2018,77.262
-Botswana,2018,69.275
-Brazil,2018,75.672
-British Virgin Islands,2018,..
-Brunei Darussalam,2018,75.722
-Bulgaria,2018,74.96341463
-Burkina Faso,2018,61.174
-Burundi,2018,61.247
-Cabo Verde,2018,72.782
-Cambodia,2018,69.57
-Cameroon,2018,58.921
-Canada,2018,82.04878049
-Cayman Islands,2018,..
-Central African Republic,2018,52.805
-Chad,2018,53.977
-Channel Islands,2018,82.928
-Chile,2018,80.042
-China,2018,76.704
-Colombia,2018,77.109
-Comoros,2018,64.118
-"Congo, Dem. Rep.",2018,60.368
-"Congo, Rep.",2018,64.29
-Costa Rica,2018,80.095
-Cote d'Ivoire,2018,57.422
-Croatia,2018,78.07073171
-Cuba,2018,78.726
-Curacao,2018,..
-Cyprus,2018,80.828
-Czech Republic,2018,79.02926829
-Denmark,2018,80.95365854
-Djibouti,2018,66.582
-Dominica,2018,..
-Dominican Republic,2018,73.892
-Ecuador,2018,76.8
-"Egypt, Arab Rep.",2018,71.825
-El Salvador,2018,73.096
-Equatorial Guinea,2018,58.402
-Eritrea,2018,65.941
-Estonia,2018,78.24390244
-Eswatini,2018,59.401
-Ethiopia,2018,66.24
-Faroe Islands,2018,82.49512195
-Fiji,2018,67.341
-Finland,2018,81.73414634
-France,2018,82.72439024
-French Polynesia,2018,77.462
-Gabon,2018,66.187
-"Gambia, The",2018,61.735
-Georgia,2018,73.6
-Germany,2018,80.89268293
-Ghana,2018,63.78
-Gibraltar,2018,..
-Greece,2018,81.78780488
-Greenland,2018,..
-Grenada,2018,72.384
-Guam,2018,79.859
-Guatemala,2018,74.063
-Guinea,2018,61.185
-Guinea-Bissau,2018,58.003
-Guyana,2018,69.774
-Haiti,2018,63.66
-Honduras,2018,75.088
-"Hong Kong SAR, China",2018,84.93414634
-Hungary,2018,76.06585366
-Iceland,2018,82.86097561
-India,2018,69.416
-Indonesia,2018,71.509
-"Iran, Islamic Rep.",2018,76.479
-Iraq,2018,70.454
-Ireland,2018,82.25609756
-Isle of Man,2018,..
-Israel,2018,82.80243902
-Italy,2018,83.34634146
-Jamaica,2018,74.368
-Japan,2018,84.21097561
-Jordan,2018,74.405
-Kazakhstan,2018,73.15
-Kenya,2018,66.342
-Kiribati,2018,68.116
-"Korea, Dem. People's Rep.",2018,72.095
-"Korea, Rep.",2018,82.62682927
-Kosovo,2018,72.24390244
-Kuwait,2018,75.398
-Kyrgyz Republic,2018,71.4
-Lao PDR,2018,67.61
-Latvia,2018,74.78292683
-Lebanon,2018,78.875
-Lesotho,2018,53.705
-Liberia,2018,63.73
-Libya,2018,72.724
-Liechtenstein,2018,83.04146341
-Lithuania,2018,75.6804878
-Luxembourg,2018,82.29512195
-"Macao SAR, China",2018,84.118
-Madagascar,2018,66.681
-Malawi,2018,63.798
-Malaysia,2018,75.997
-Maldives,2018,78.627
-Mali,2018,58.893
-Malta,2018,82.44878049
-Marshall Islands,2018,..
-Mauritania,2018,64.704
-Mauritius,2018,74.41634146
-Mexico,2018,74.992
-"Micronesia, Fed. Sts.",2018,67.755
-Moldova,2018,71.808
-Monaco,2018,..
-Mongolia,2018,69.689
-Montenegro,2018,76.77
-Morocco,2018,76.453
-Mozambique,2018,60.163
-Myanmar,2018,66.867
-Namibia,2018,63.373
-Nauru,2018,..
-Nepal,2018,70.478
-Netherlands,2018,81.81219512
-New Caledonia,2018,77.43414634
-New Zealand,2018,81.85853659
-Nicaragua,2018,74.275
-Niger,2018,62.024
-Nigeria,2018,54.332
-North Macedonia,2018,75.688
-Northern Mariana Islands,2018,..
-Norway,2018,82.75853659
-Oman,2018,77.633
-Pakistan,2018,67.114
-Palau,2018,..
-Panama,2018,78.329
-Papua New Guinea,2018,64.263
-Paraguay,2018,74.131
-Peru,2018,76.516
-Philippines,2018,71.095
-Poland,2018,77.60243902
-Portugal,2018,81.32439024
-Puerto Rico,2018,79.77819512
-Qatar,2018,80.1
-Romania,2018,75.35853659
-Russian Federation,2018,72.66219512
-Rwanda,2018,68.7
-Samoa,2018,73.187
-San Marino,2018,..
-Sao Tome and Principe,2018,70.17
-Saudi Arabia,2018,74.998
-Senegal,2018,67.665
-Serbia,2018,75.8902439
-Seychelles,2018,72.84146341
-Sierra Leone,2018,54.309
-Singapore,2018,83.29756098
-Sint Maarten (Dutch part),2018,..
-Slovak Republic,2018,77.26585366
-Slovenia,2018,81.37804878
-Solomon Islands,2018,72.835
-Somalia,2018,57.068
-South Africa,2018,63.857
-South Sudan,2018,57.604
-Spain,2018,83.43170732
-Sri Lanka,2018,76.812
-St. Kitts and Nevis,2018,..
-St. Lucia,2018,76.057
-St. Martin (French part),2018,79.82195122
-St. Vincent and the Grenadines,2018,72.415
-Sudan,2018,65.095
-Suriname,2018,71.57
-Sweden,2018,82.55853659
-Switzerland,2018,83.75365854
-Syrian Arab Republic,2018,71.779
-Tajikistan,2018,70.879
-Tanzania,2018,65.015
-Thailand,2018,76.931
-Timor-Leste,2018,69.26
-Togo,2018,60.76
-Tonga,2018,70.801
-Trinidad and Tobago,2018,73.38
-Tunisia,2018,76.505
-Turkey,2018,77.437
-Turkmenistan,2018,68.073
-Turks and Caicos Islands,2018,..
-Tuvalu,2018,..
-Uganda,2018,62.973
-Ukraine,2018,71.58268293
-United Arab Emirates,2018,77.814
-United Kingdom,2018,81.25609756
-United States,2018,78.63902439
-Uruguay,2018,77.77
-Uzbekistan,2018,71.573
-Vanuatu,2018,70.323
-"Venezuela, RB",2018,72.128
-Vietnam,2018,75.317
-Virgin Islands (U.S.),2018,79.5195122
-West Bank and Gaza,2018,73.895
-"Yemen, Rep.",2018,66.096
-Zambia,2018,63.51
-Zimbabwe,2018,61.195
+Country,LE2002,LE2010,LE2018
+Afghanistan,56.784,61.028,64.486
+Albania,74.579,76.562,78.458
+Algeria,71.605,74.938,76.693
+American Samoa,..,..,..
+Andorra,..,..,..
+Angola,47.702,55.35,60.782
+Antigua and Barbuda,74.395,75.823,76.885
+Argentina,73.932,75.278,76.52
+Armenia,72.112,73.331,74.945
+Aruba,73.937,75.017,76.152
+Australia,79.93658537,81.69512195,82.74878049
+Austria,78.67804878,80.5804878,81.69268293
+Azerbaijan,67.391,70.938,72.864
+"Bahamas, The",71.977,72.144,73.752
+Bahrain,74.822,76.057,77.163
+Bangladesh,66.43,69.881,72.32
+Barbados,77.534,78.364,79.081
+Belarus,68.05609756,70.40487805,74.17560976
+Belgium,78.07560976,80.18292683,81.59512195
+Belize,69.272,72.057,74.496
+Benin,56.025,59.318,61.47
+Bermuda,78.08780488,79.28853659,81.65170732
+Bhutan,62.728,68.384,71.46
+Bolivia,63.64,68.007,71.239
+Bosnia and Herzegovina,74.803,76.031,77.262
+Botswana,50.232,60.211,69.275
+Brazil,70.813,73.619,75.672
+British Virgin Islands,..,..,..
+Brunei Darussalam,73.332,74.74,75.722
+Bulgaria,71.86585366,73.51219512,74.96341463
+Burkina Faso,51.384,57.096,61.174
+Burundi,50.81,57.228,61.247
+Cabo Verde,69.557,71.062,72.782
+Cambodia,60.283,66.56,69.57
+Cameroon,51.536,55.101,58.921
+Canada,79.4902439,81.24634146,82.04878049
+Cayman Islands,..,82.1902439,..
+Central African Republic,44.063,47.312,52.805
+Chad,47.9,50.89,53.977
+Channel Islands,79.548,81.483,82.928
+Chile,76.894,78.779,80.042
+China,72.061,74.409,76.704
+Colombia,73.517,75.424,77.109
+Comoros,59.617,61.862,64.118
+"Congo, Dem. Rep.",51.385,56.909,60.368
+"Congo, Rep.",53.091,60.093,64.29
+Costa Rica,77.74,78.769,80.095
+Cote d'Ivoire,49.475,52.964,57.422
+Croatia,74.71731707,76.47560976,78.07073171
+Cuba,77.105,78.338,78.726
+Curacao,..,..,..
+Cyprus,78.264,79.43,80.828
+Czech Republic,75.22195122,77.42439024,79.02926829
+Denmark,76.89512195,79.1,80.95365854
+Djibouti,57.235,60.062,66.582
+Dominica,76.59756098,..,..
+Dominican Republic,69.957,72.046,73.892
+Ecuador,73.371,75.089,76.8
+"Egypt, Arab Rep.",68.961,70.349,71.825
+El Salvador,69.432,71.21,73.096
+Equatorial Guinea,53.84,55.622,58.402
+Eritrea,56.5,62.193,65.941
+Estonia,70.90487805,75.42926829,78.24390244
+Eswatini,44.41,46.601,59.401
+Ethiopia,53.349,61.627,66.24
+Faroe Islands,78.83902439,80.63902439,82.49512195
+Fiji,66.022,66.655,67.341
+Finland,78.1195122,79.87073171,81.73414634
+France,79.26097561,81.66341463,82.72439024
+French Polynesia,73.017,75.611,77.462
+Gabon,57.791,61.4,66.187
+"Gambia, The",56.761,59.637,61.735
+Georgia,70.22,71.46,73.6
+Germany,78.22926829,79.98780488,80.89268293
+Ghana,57.425,61.03,63.78
+Gibraltar,..,..,..
+Greece,78.64146341,80.38780488,81.78780488
+Greenland,68.16268293,70.85707317,..
+Grenada,72.929,72.867,72.384
+Guam,75.726,77.941,79.859
+Guatemala,68.717,71.481,74.063
+Guinea,51.484,56.861,61.185
+Guinea-Bissau,51.123,54.628,58.003
+Guyana,65.828,68.059,69.774
+Haiti,57.655,60.511,63.66
+Honduras,71.249,73.317,75.088
+"Hong Kong SAR, China",81.42682927,82.97804878,84.93414634
+Hungary,72.34878049,74.20731707,76.06585366
+Iceland,80.50243902,81.89756098,82.86097561
+India,63.304,66.693,69.416
+Indonesia,66.321,69.205,71.509
+"Iran, Islamic Rep.",70.921,73.905,76.479
+Iraq,68.827,68.567,70.454
+Ireland,77.63414634,80.74390244,82.25609756
+Isle of Man,77.96585366,..,..
+Israel,79.45121951,81.60243902,82.80243902
+Italy,80.22926829,82.03658537,83.34634146
+Jamaica,74.14,74.038,74.368
+Japan,81.56341463,82.84268293,84.21097561
+Jordan,72.083,73.428,74.405
+Kazakhstan,65.95,68.45,73.15
+Kenya,51.606,60.959,66.342
+Kiribati,63.731,65.769,68.116
+"Korea, Dem. People's Rep.",66.925,69.571,72.095
+"Korea, Rep.",76.76585366,80.11707317,82.62682927
+Kosovo,67.94390244,70.14390244,72.24390244
+Kuwait,73.28,74.358,75.398
+Kyrgyz Republic,68.15609756,69.3,71.4
+Lao PDR,59.937,64.306,67.61
+Latvia,70.96097561,73.48292683,74.78292683
+Lebanon,75.488,78.36,78.875
+Lesotho,44.898,45.1,53.705
+Liberia,52.826,59.6,63.73
+Libya,71.244,72.044,72.724
+Liechtenstein,79.63658537,81.84146341,83.04146341
+Lithuania,71.76097561,73.26829268,75.6804878
+Luxembourg,77.96585366,80.63170732,82.29512195
+"Macao SAR, China",80.87,82.704,84.118
+Madagascar,59.717,63.388,66.681
+Malawi,45.517,55.564,63.798
+Malaysia,72.976,74.493,75.997
+Maldives,71.708,75.905,78.627
+Mali,49.54,55.251,58.893
+Malta,78.73902439,81.39756098,82.44878049
+Marshall Islands,..,..,..
+Mauritania,60.892,62.527,64.704
+Mauritius,71.96585366,72.96731707,74.41634146
+Mexico,74.922,75.065,74.992
+"Micronesia, Fed. Sts.",64.888,66.471,67.755
+Moldova,67.362,69.616,71.808
+Monaco,..,..,..
+Mongolia,63.777,67.38,69.689
+Montenegro,73.285,75.151,76.77
+Morocco,69.769,74.382,76.453
+Mozambique,49.61,52.31,60.163
+Myanmar,60.685,63.525,66.867
+Namibia,50.862,56.665,63.373
+Nauru,..,..,..
+Nepal,63.57,67.611,70.478
+Netherlands,78.29268293,80.70243902,81.81219512
+New Caledonia,75.10243902,77.2804878,77.43414634
+New Zealand,78.84634146,80.70243902,81.85853659
+Nicaragua,70.308,72.428,74.275
+Niger,51.256,57.333,62.024
+Nigeria,46.835,50.896,54.332
+North Macedonia,73.642,74.662,75.688
+Northern Mariana Islands,..,..,..
+Norway,78.98780488,80.99756098,82.75853659
+Oman,73.022,75.682,77.633
+Pakistan,63.3,65.264,67.114
+Palau,..,..,..
+Panama,75.401,76.792,78.329
+Papua New Guinea,59.722,62.029,64.263
+Paraguay,71.023,72.653,74.131
+Peru,71.882,74.41,76.516
+Philippines,68.88,69.823,71.095
+Poland,74.49756098,76.24634146,77.60243902
+Portugal,77.06585366,79.02682927,81.32439024
+Puerto Rico,77.7604878,78.41909756,79.77819512
+Qatar,77.762,79.108,80.1
+Romania,71.0097561,73.45853659,75.35853659
+Russian Federation,65.12878049,68.84121951,72.66219512
+Rwanda,50.987,63.433,68.7
+Samoa,69.451,71.663,73.187
+San Marino,..,..,..
+Sao Tome and Principe,62.687,67.43,70.17
+Saudi Arabia,72.92,73.917,74.998
+Senegal,58.675,64.284,67.665
+Serbia,72.28536585,74.33658537,75.8902439
+Seychelles,71.08780488,73.19756098,72.84146341
+Sierra Leone,41.376,49.382,54.309
+Singapore,78.55121951,81.54146341,83.29756098
+Sint Maarten (Dutch part),..,..,..
+Slovak Republic,73.60487805,75.11219512,77.26585366
+Slovenia,76.00731707,79.42195122,81.37804878
+Solomon Islands,68.175,70.674,72.835
+Somalia,51.492,53.99,57.068
+South Africa,54.31,57.669,63.857
+South Sudan,50.05,54.8,57.604
+Spain,79.56829268,81.62682927,83.43170732
+Sri Lanka,73.085,75.439,76.812
+St. Kitts and Nevis,71.33658537,..,..
+St. Lucia,73.648,74.852,76.057
+St. Martin (French part),77.17317073,78.52195122,79.82195122
+St. Vincent and the Grenadines,70.977,71.776,72.415
+Sudan,59.258,62.764,65.095
+Suriname,68.064,70.465,71.57
+Sweden,79.84634146,81.45121951,82.55853659
+Switzerland,80.38536585,82.24634146,83.75365854
+Syrian Arab Republic,73.663,72.108,71.779
+Tajikistan,63.653,68.736,70.879
+Tanzania,52.142,58.584,65.015
+Thailand,71.089,74.184,76.931
+Timor-Leste,60.901,67.186,69.26
+Togo,53.71,57.468,60.76
+Tonga,69.771,70.059,70.801
+Trinidad and Tobago,69.903,71.946,73.38
+Tunisia,73.638,75.041,76.505
+Turkey,71.078,74.507,77.437
+Turkmenistan,64.101,66.657,68.073
+Turks and Caicos Islands,..,..,..
+Tuvalu,..,..,..
+Uganda,48.299,57.099,62.973
+Ukraine,68.27560976,70.26536585,71.58268293
+United Arab Emirates,74.758,76.332,77.814
+United Kingdom,78.14390244,80.40243902,81.25609756
+United States,76.93658537,78.54146341,78.63902439
+Uruguay,75.152,76.75,77.77
+Uzbekistan,67.613,69.672,71.573
+Vanuatu,67.793,69.123,70.323
+"Venezuela, RB",72.466,73.134,72.128
+Vietnam,73.438,74.837,75.317
+Virgin Islands (U.S.),77.52195122,77.86585366,79.5195122
+West Bank and Gaza,71.447,72.788,73.895
+"Yemen, Rep.",61.781,65.549,66.096
+Zambia,45.4,55.655,63.51
+Zimbabwe,43.523,50.64,61.195
